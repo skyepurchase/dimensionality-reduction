@@ -22,11 +22,13 @@ For each method include mathematical overview, motivation, when it is good/ not 
 - Non-linear methods
 - UMAP , t-SNE
 
-### NMF - constrained/ interpretable dimensionality reduction - Callum
+### NMF (or any other cool methods) - constrained/ interpretable dimensionality reduction - Callum
 
-
+- Interesting methods
+![Context of probabilistic machine learning](Dimensionality_reduction_methods.png)
 - NMF
 
+ 
 
 ### slide 4 - Skye
 
